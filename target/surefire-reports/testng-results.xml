@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="138" started-at="2020-08-31T23:49:41 IST" finished-at="2020-08-31T23:49:42 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="138" started-at="2020-08-31T23:49:41 IST" finished-at="2020-08-31T23:49:42 IST">
+      <class name="qaclickacademy.com.AppiumTest">
+        <test-method status="PASS" signature="AndroidTest()[pri:0, instance:qaclickacademy.com.AppiumTest@1d16f93d]" name="AndroidTest" duration-ms="24" started-at="2020-08-31T23:49:41 IST" finished-at="2020-08-31T23:49:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidTest -->
+        <test-method status="PASS" signature="IOsTest()[pri:0, instance:qaclickacademy.com.AppiumTest@1d16f93d]" name="IOsTest" duration-ms="1" started-at="2020-08-31T23:49:42 IST" finished-at="2020-08-31T23:49:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOsTest -->
+      </class> <!-- qaclickacademy.com.AppiumTest -->
+      <class name="qaclickacademy.com.RestapiTest">
+        <test-method status="PASS" signature="RestApiTest1()[pri:0, instance:qaclickacademy.com.RestapiTest@67b92f0a]" name="RestApiTest1" duration-ms="1" started-at="2020-08-31T23:49:42 IST" finished-at="2020-08-31T23:49:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestApiTest1 -->
+        <test-method status="PASS" signature="RestApiTest2()[pri:0, instance:qaclickacademy.com.RestapiTest@67b92f0a]" name="RestApiTest2" duration-ms="0" started-at="2020-08-31T23:49:42 IST" finished-at="2020-08-31T23:49:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestApiTest2 -->
+      </class> <!-- qaclickacademy.com.RestapiTest -->
+      <class name="qaclickacademy.com.SeliniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.com.SeliniumTest@2b9627bc]" name="BrowserAutomation" duration-ms="1" started-at="2020-08-31T23:49:42 IST" finished-at="2020-08-31T23:49:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementui()[pri:0, instance:qaclickacademy.com.SeliniumTest@2b9627bc]" name="elementui" duration-ms="0" started-at="2020-08-31T23:49:42 IST" finished-at="2020-08-31T23:49:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementui -->
+      </class> <!-- qaclickacademy.com.SeliniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
