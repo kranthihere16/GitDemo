@@ -11,10 +11,15 @@ public class AppiumTest {
 	System.out.println("AndroidTest3");	
 	
 	}
+	public void AndroidTests()
+	{
+	System.out.println("AndroidTest");	
+	}
 	@Test
 	public void IOsTest()
 	{
-		System.out.println("IOsTest");	
+		System.out.println("IOsTest");
+		System.out.println("IOsTest");
 	}
 
 }

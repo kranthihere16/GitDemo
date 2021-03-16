@@ -13,4 +13,8 @@ public void elementui()
 {
 	System.out.println("BrowserAutomation");	
 }
+public void elementui2()
+{
+	System.out.println("BrowserAutomation2");	
+}
 }
